@@ -4,7 +4,7 @@ A simple diy device to make smart any ordinary object
 ## Motivation
 Nowadays anything you can think, you can buy it with the preffix "smart", wich usually means that you can connect your phone to it to manage it remotely. But.. how can we do this with devices that we already have?
 
-In this example I'm going to use a real life need: a friend of mine has a pet capture cage that uses to capture stray cats to cure, castrate and release them again. The cage has an mechanism that closes the door when a cat steps over a pedal inside the cage. But the cat doesn't allways steps on the pedal, or two cats go in at same time, or a cat already vaccinated falls in the trap,.. so she would like to manage the cage door remotelly.
+In this example I'm going to use a real life need: a friend of mine has a pet capture cage that uses to capture stray cats to cure, castrate and release them again. The cage has an mechanism that closes the door when a cat steps over a pedal inside the cage. But the cat doesn't allways steps on the pedal, or two cats go in at same time, or a cat already castrated falls in the trap,.. so she would like to manage the cage door remotelly.
 
 ![all](./assets/all.jpg "all")
 
@@ -135,7 +135,7 @@ The wiring is super simple:
 The servo has a metal wire attached to it that goes out of the box through an small hole so when the servo moves it pulls from the wire.
 ![out](./assets/out.jpg "out")
 
-On the other end of the wire there is a keytool ring that will trigger the closing mechanism of the cage.
+On the other end of the wire there is a keytool ring that will trigger the closing mechanism of the cage when is pulled.
 ![pull](./assets/pull.jpg "pull")
 
 I fixed the box to the cage using the handles of the cage that magically fit around the box.
